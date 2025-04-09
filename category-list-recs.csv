@@ -1,13 +1,7 @@
-# Key,Recommendation_1,Recommendation_2,Recommendation_3,Recommendation_4,Recommendation_5,Recommendation_6,Recommendation_7,Recommendation_8
-Snacks,Snacks:Cookies & Sweets,"Snacks:Chips, Crackers & Popcorn",Snacks:Nuts & Dried Fruit,Snacks:Trail Mix,Snacks:Jerky & Dried Meat,,,
-Healthy Living,Fresh Produce,Dairy & Eggs,Bakery & Bread,Beverages,BBQ & Picnic,Pantry Essentials,Breakfast & Cereals,Fresh Meat & Seafood
-Alcohol,Alcohol:Red Wine,Alcohol:Specialty Wine,Alcohol:White Wine,Alcohol:Sparkling Wine,Alcohol:Hard Beverages,Alcohol:Beer,,
-Deli,"Deli,Deli:Deli Meat","Deli,Deli:Lunch Meat","Deli,Deli:Dips & Hummus","Deli,Deli:Prepared Meals & Sides","Deli,Deli:Take & Bake",,,
-Frozen Foods,"Frozen Foods:Frozen Meat, Poultry & Seafood",Frozen Foods:Frozen Vegetables,Frozen Foods:Frozen Ice Cream & Desserts,Frozen Foods:Frozen Fruit,Frozen Foods:Frozen Breakfast,Frozen Foods:Frozen Meals & Sides,Frozen Foods:Frozen Appetizers & Snacks,Frozen Foods:Frozen Pizza
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,`,,,,,,,
+# Key,Recommendation_1,Recommendation_2,Recommendation_3,Recommendation_4,Recommendation_5
+Snacks,Snacks:Cookies & Sweets,"Snacks:Chips, Crackers & Popcorn",Snacks:Nuts & Dried Fruit,Snacks:Trail Mix,Snacks:Jerky & Dried Meat
+Healthy Living,US_0000000000000253,US_0000000000000573,US_0000000000000772,US_0000000000001047,US_0000000000001146
+Alcohol,Alcohol:Red Wine,Alcohol:Specialty Wine,Alcohol:White Wine,Alcohol:Sparkling Wine,Alcohol:Hard Beverages
+Deli,"Deli,Deli:Deli Meat","Deli,Deli:Lunch Meat","Deli,Deli:Dips & Hummus","Deli,Deli:Prepared Meals & Sides","Deli,Deli:Take & Bake"
+Frozen Foods,"Frozen Foods:Frozen Meat, Poultry & Seafood",Frozen Foods:Frozen Vegetables,Frozen Foods:Frozen Ice Cream & Desserts,Frozen Foods:Frozen Fruit,Frozen Foods:Frozen Breakfast
+Dairy & Eggs,US_0000000000000253,US_0000000000000573,US_0000000000000772,US_0000000000001047,US_0000000000001146
